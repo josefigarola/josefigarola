@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Figarola</h1>
 <h3 align="center">I´m a Robotics and Digital Systems Engineer</h3>
 
-# I am sutdent @ Tecnologico de Monterrey, graduating in June 2023. My areas of interests are mainly in Machine Learning and Deep Learning and have experience with ROS, Computer Vision, Embedded Systems and Control. 
+# I am a student @ Tecnologico de Monterrey, graduating in June 2023. My areas of interests are mainly in Machine Learning and Deep Learning and have experience with ROS, Computer Vision, Embedded Systems and Control. 
 
 - 🔭 I’m currently working on **Machine Learning projects for EMG and EEG classification in a Research Stay @ Tecnologico de Monterrey**
 

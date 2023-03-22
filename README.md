@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miguel Figarola</h1>
 <h3 align="center">I´m a Robotics and Digital Systems Engineer</h3>
 
-- 🔭 I’m currently working on **EMG classification using ML**
+# I am an 8th semester student @ Tecnologico de Monterrey. My areas of interests are mainly in Machine Learning and Deep Learning and have experience with ROS, Computer Vision, Embedded Systems and Control.
+
+- 🔭 I’m currently working on **Machine Learning projects for EMG and EEG classification**
 
 - 🌱 I’m currently learning **NLP, ML, DL and Control**
 

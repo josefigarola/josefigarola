@@ -3,7 +3,7 @@
 
 # I am a student @ Tecnologico de Monterrey, graduating in June 2023. My areas of interests are mainly in Machine Learning and Deep Learning and have experience with ROS, Computer Vision, Embedded Systems and Control. 
 
-- 🔭 I’m currently working on **Machine Learning projects for EMG and EEG classification in a Research Stay @ Tecnologico de Monterrey**
+- 🔭 I’m currently working on **Machine Learning projects for EMG and EEG classification in a Research Stay in the Neurotechnology Laboratory (NTLAB) @ Tecnologico de Monterrey**
 
 - 🌱 I’m currently learning **NLP, ML, DL, CV and Control**
 

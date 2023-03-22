@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning projects for EMG and EEG classification in a Research Stay in the Neurotechnology Laboratory (NTLAB) @ Tecnologico de Monterrey**
 
-- 🌱 I’m currently learning **NLP, ML, DL, CV and Control**
+- 🌱 I’m currently learning **more about Natural Language Processing with Transformers**
 
 - 📫 How to reach me **jmfigarolaprado2@gmail.com**
 

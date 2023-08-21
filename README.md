@@ -3,9 +3,9 @@
 
 <h3 align="left">My areas of interests are mainly in Machine Learning and Deep Learning and have experience with ROS, Computer Vision, Embedded Systems and Control. 
 
-- 🔭 I’m currently working on **Machine Learning projects for EMG and EEG classification in a Research Stay in the Neurotechnology Laboratory (NTLAB) @ Tecnologico de Monterrey**
+- 🔭 Just finished my work on **Machine Learning projects for EMG and EEG classification in a Research Stay in the Neurotechnology Laboratory (NTLAB) @ Tecnologico de Monterrey**
 
-- 🌱 I’m currently learning **more about Natural Language Processing with Transformers**
+- 🌱 I’m currently learning **NLP, DBA, Data Science/Analytics**
 
 - 📫 How to reach me **jmfigarolaprado2@gmail.com**
 

@@ -5,7 +5,7 @@
 
 - 🔭 Just finished my work on **Machine Learning projects for EMG and EEG classification in a Research Stay in the Neurotechnology Laboratory (NTLAB) @ Tecnologico de Monterrey**
 
-- 🌱 I’m currently learning **NLP, DBA, Data Science/Analytics**
+- 🌱 I’m currently learning **Web/App Dev, DBA, Data Science/Analytics**
 
 - 📫 How to reach me **jmfigarolaprado2@gmail.com**
 

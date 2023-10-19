@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jmfigarolaprado2@gmail.com**
 
-- Check my own <a href="https://josefigarola.github.io/jmfigarola/" target="_blank">website</a> for more information.
+- Check my own [website](https://josefigarola.github.io/jmfigarola/){:target="_blank"} for more information.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

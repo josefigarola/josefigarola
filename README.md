@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **jmfigarolaprado2@gmail.com**
 
+- Check my own [website](https://josefigarola.github.io/jmfigarola/) for more information 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jmfigarola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmfigarola" height="30" width="40" /></a>

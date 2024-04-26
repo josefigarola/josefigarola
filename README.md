@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miguel Figarola</h1>
 <h3 align="center">I´m a Robotics and Digital Systems Engineer</h3>
 
-<h3 align="left">My areas of interests are mainly in Machine Learning and Deep Learning and have experience with ROS, Computer Vision, Embedded Systems and Control. 
+<h3 align="left">My areas of interests are mainly in Machine Learning and Deep Learning and have experience with AI, ROS, Computer Vision, Systems Control. 
 
-- 🔭 Just finished my work on **Machine Learning projects for EMG and EEG classification in a Research Stay in the Neurotechnology Laboratory (NTLAB) @ Tecnologico de Monterrey**
+- 🔭 I really find passion in LLM, integration and indexing data. Finding insights given the data and using different AI models in order to reach clients´ requirements.
 
-- 🌱 I’m currently learning **Web/App Dev, DBA, Data Science/Analytics**
+- 🌱 I’m currently working @ Qualtop as an R&D Analyst.
 
 - 📫 How to reach me **jmfigarolaprado2@gmail.com**
 

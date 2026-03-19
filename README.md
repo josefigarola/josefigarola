@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-I’m a Robotics and Digital Systems Engineer currently working as an **R&D Analyst @ Qualtop** and pursuing a Master's focused on **Intelligent & Sustainable Farming Systems**.
+I’m a Robotics and Digital Systems Engineer currently working as an **R&D Analyst @ Qualtop** and pursuing a Master's focused on **Intelligent & Sustainable Farming Systems @ UofA**.
 
 My work sits at the intersection of:
 - 🤖 Artificial Intelligence (LLMs, Computer Vision, Data-driven systems)
